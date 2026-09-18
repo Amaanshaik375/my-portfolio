@@ -1,13 +1,13 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: #eef3f8;
+    background-color: aliceblue;
     color: #333;
     margin: 0;
     padding: 30px;
 }
 
 h1 {
-    color: #12355b;
+    color: midnightblue;
     text-align: center;
     margin-bottom: 10px;
     font-size: 42px;
@@ -16,18 +16,18 @@ h1 {
 
 h1 + p {
     text-align: center;
-    color: #456;
+    color: darkslategray;
 }
 
 h2 {
-    color: #12355b;
-    border-bottom: 2px solid #4f81bd;
+    color: midnightblue;
+    border-bottom: 2px solid steelblue;
     padding-bottom: 5px;
     margin-top: 35px;
 }
 
 h3 {
-    color: #315a7d;
+    color: steelblue;
     margin-bottom: 5px;
 }
 
@@ -37,20 +37,19 @@ p {
 }
 
 a {
-    color: #1769aa;
+    color: dodgerblue;
     text-decoration: none;
 }
 
 a:hover {
-    color: #d35400;
+    color: darkorange;
     text-decoration: underline;
 }
+
 img {
     width: 200px;
     float: right;
     margin-right: 150px;
-}
-img {
     position: relative;
     top: -70px;
 }
